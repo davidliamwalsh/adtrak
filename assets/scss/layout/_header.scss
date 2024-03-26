@@ -67,8 +67,8 @@ header {
         &::after {
           content: '';
           display: inline-block;
-          width: 5px;
-          height: 5px;
+          width: 3px;
+          height: 3px;
           -moz-border-radius: 7.5px;
           -webkit-border-radius: 7.5px;
           border-radius: 7.5px;
@@ -96,7 +96,7 @@ header {
       a {
         color: $black;
         font-weight: 500;
-        font-size: 14px;
+        font-size: 15px;
         text-align: right;
         &:hover {
           color: #fb6c55;
@@ -111,7 +111,7 @@ header {
         border: 2px solid #fb6c55;
         a {
           color: $white;
-          font-size: 12px;
+          font-size: 11px;
           font-weight: 500;
           padding: 0 1rem;
         }
